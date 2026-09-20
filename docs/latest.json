@@ -1,0 +1,25 @@
+{
+  "app": "fnblackboard",
+  "version": "0.3.2",
+  "published_at": "2026-09-20",
+  "min_fnos_version": "1.2.0401",
+  "repository": "https://github.com/Digit-Space2021/FnBlackboard",
+  "release_page": "https://github.com/Digit-Space2021/FnBlackboard/releases/tag/v0.3.2",
+  "changelog": [
+    "修复移动端隐藏键盘后旧光标限制阅读滚动范围的问题",
+    "键盘关闭后恢复自由阅读，重新呼出键盘时恢复光标跟随",
+    "继续支持 x86 和 ARM64"
+  ],
+  "assets": {
+    "x86": {
+      "name": "FnBlackboard_0.3.2_x86.fpk",
+      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.2/FnBlackboard_0.3.2_x86.fpk",
+      "sha256": "3789864BA49C5BF573E6BE86E1A1AD305B3798481466FB3642A43ED34CBF3A92"
+    },
+    "arm": {
+      "name": "FnBlackboard_0.3.2_arm.fpk",
+      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.2/FnBlackboard_0.3.2_arm.fpk",
+      "sha256": "1A8FCD8A64C487F1EAA6C0BA34E7765F3A661313009F89B5D43E4BA8F6E57B27"
+    }
+  }
+}
