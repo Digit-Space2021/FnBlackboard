@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>FnBlackboard 隐私说明</title>
+  <style>
+    body{max-width:820px;margin:40px auto;padding:0 20px;font-family:system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.75;color:#1f2937}
+    h1,h2{line-height:1.3} code{background:#f3f4f6;padding:2px 5px;border-radius:4px} a{color:inherit}
+  </style>
+</head>
+<body>
+  <h1>FnBlackboard / 飞牛小黑板隐私说明</h1>
+  <p>版本：2026-09-22</p>
+  <p>FnBlackboard 是运行于用户自有 fnOS 设备上的第三方独立应用。本说明用于解释应用在提供笔记、任务、共享与多人协作功能时处理的数据。</p>
+
+  <h2>1. 本地处理的数据</h2>
+  <p>为识别当前用户、文档所有者和共享对象，应用会使用 fnOS 网关提供的用户标识（UID）和用户名。用户创建的文档标题、正文、任务状态、共享权限、协作状态与版本数据会保存在 FnBlackboard 自身的 NAS 本地应用数据目录中。</p>
+
+  <h2>2. 数据用途</h2>
+  <p>上述数据仅用于身份识别、文档保存、权限判断、文档共享、多人协作、版本恢复和应用正常运行。FnBlackboard 当前不包含广告 SDK、行为统计 SDK 或面向开发者的用户画像/跟踪功能。</p>
+
+  <h2>3. 网络访问</h2>
+  <p>用户主动点击“检查项目版本”时，应用会访问 GitHub Pages 上的 FnBlackboard 版本清单；用户选择查看新版时，可跳转至公开的 GitHub Release 页面。该过程不会由 FnBlackboard 自动安装或替换应用。访问 GitHub 服务时，GitHub 可能按照其自身政策处理网络连接信息（例如 IP 地址和浏览器请求信息）。</p>
+
+  <h2>4. 多用户共享</h2>
+  <p>当文档所有者主动设置共享对象时，被授权的 NAS 用户可按照所授予的只读或编辑权限访问该文档。应用不会在未经文档所有者操作的情况下主动向其他 NAS 用户公开文档。</p>
+
+  <h2>5. 保存与删除</h2>
+  <p>数据保存在用户自己的 NAS 上，直至用户在应用内删除文档，或在卸载 FnBlackboard 时选择彻底删除应用数据。若卸载时选择保留数据，相关本地数据会继续保存在设备上，以便后续重新安装后使用。</p>
+
+  <h2>6. 第三方组件</h2>
+  <p>FnBlackboard 使用 Vue、Tiptap、Yjs、Gorilla WebSocket、SQLite 相关 Go 组件等第三方开源软件。应用包内提供 <code>THIRD_PARTY_NOTICES.txt</code>，列明构建时使用的第三方运行时组件及其许可信息。</p>
+
+  <h2>7. 自愿赞赏</h2>
+  <p>“关于”页面可展示微信/支付宝赞赏二维码。二维码图片随应用静态提供，是否扫码完全由用户决定；FnBlackboard 不在应用内收集或保存支付账号、银行卡或交易凭据。扫码后的支付流程由相应支付服务提供方处理。</p>
+
+  <h2>8. 联系与反馈</h2>
+  <p>项目与问题反馈：<a href="https://github.com/Digit-Space2021/FnBlackboard">github.com/Digit-Space2021/FnBlackboard</a></p>
+
+  <h2>9. 平台声明</h2>
+  <p>FnBlackboard 为第三方独立应用。“飞牛”、fnOS 及相关名称和标识归其各自权利人所有。本应用对这些名称的使用仅用于说明适配平台及应用运行环境，不表示存在官方隶属、授权或背书关系；如平台审核对应用名称或展示方式提出要求，将按审核意见调整。</p>
+</body>
+</html>
