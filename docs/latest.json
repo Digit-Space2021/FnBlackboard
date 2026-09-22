@@ -1,25 +1,27 @@
-{
+﻿{
   "app": "fnblackboard",
-  "version": "0.3.2",
-  "published_at": "2026-09-20",
+  "version": "0.3.12",
+  "published_at": "2026-09-22",
   "min_fnos_version": "1.2.0401",
   "repository": "https://github.com/Digit-Space2021/FnBlackboard",
-  "release_page": "https://github.com/Digit-Space2021/FnBlackboard/releases/tag/v0.3.2",
+  "release_page": "https://github.com/Digit-Space2021/FnBlackboard/releases/tag/v0.3.12",
   "changelog": [
-    "修复移动端隐藏键盘后旧光标限制阅读滚动范围的问题",
-    "键盘关闭后恢复自由阅读，重新呼出键盘时恢复光标跟随",
-    "继续支持 x86 和 ARM64"
+    "鍥哄畾鏍囬/鐘舵€?宸ュ叿鏍忔敼涓轰笉閫忓簳绋冲畾灞傦紝鍗忎綔鍏夋爣涓嶅啀绌胯繃鍥哄畾鍖哄煙",
+    "鎵嬫満闀挎枃妗ｆ柊澧炲彲瑙併€佸彲鎷栧姩婊氬姩鏉★紝鏀寔杞ㄩ亾璺宠浆",
+    "鏂囨。澶х翰鏀逛负鍗婇€忔槑娴眰锛屽彲鐪嬪埌涓嬫柟姝ｆ枃",
+    "瀹夊叏瀹¤鑴氭湰鍖哄垎缃戠粶涓嶅彲杈句笌鐪熷疄婕忔礊鍙戠幇锛屽噺灏戣鎶?
   ],
   "assets": {
     "x86": {
-      "name": "FnBlackboard_0.3.2_x86.fpk",
-      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.2/FnBlackboard_0.3.2_x86.fpk",
-      "sha256": "3789864BA49C5BF573E6BE86E1A1AD305B3798481466FB3642A43ED34CBF3A92"
+      "name": "FnBlackboard_0.3.12_x86.fpk",
+      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.12/FnBlackboard_0.3.12_x86.fpk",
+      "sha256": "6f89fe5f81f5d0d114b4fc0fa42f6cc006a33122b48632b27edd67448588d779"
     },
     "arm": {
-      "name": "FnBlackboard_0.3.2_arm.fpk",
-      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.2/FnBlackboard_0.3.2_arm.fpk",
-      "sha256": "1A8FCD8A64C487F1EAA6C0BA34E7765F3A661313009F89B5D43E4BA8F6E57B27"
+      "name": "FnBlackboard_0.3.12_arm.fpk",
+      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.12/FnBlackboard_0.3.12_arm.fpk",
+      "sha256": "da0f9166a9ebf8d58168c5788b8dff69ee97b75370c7b8d6a1eae861f03dd33c"
     }
   }
 }
+
