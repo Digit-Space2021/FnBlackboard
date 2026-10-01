@@ -1,26 +1,26 @@
 ﻿{
   "app": "fnblackboard",
-  "version": "0.3.12",
-  "published_at": "2026-09-22",
+  "version": "0.4.1",
+  "published_at": "2026-10-01",
   "min_fnos_version": "1.2.0401",
   "repository": "https://github.com/Digit-Space2021/FnBlackboard",
-  "release_page": "https://github.com/Digit-Space2021/FnBlackboard/releases/tag/v0.3.12",
+  "release_page": "https://github.com/Digit-Space2021/FnBlackboard/releases/tag/v0.4.1",
   "changelog": [
-    "固定标题、状态和工具栏改为不透底稳定层，协作光标不再穿过固定区域",
-    "手机长文档新增可见、可拖动滚动条，支持轨道跳转",
-    "文档大纲改为半透明浮层，可看到下方正文",
-    "安全审计脚本区分网络不可达与真实漏洞发现，减少误报"
+    "完善多人协作评论、@成员提醒与已读状态",
+    "完善历史版本、恢复与操作记录 Audit",
+    "优化移动端编辑、主题适配与界面细节",
+    "继续提供 x86 与 ARM64 安装包"
   ],
   "assets": {
     "x86": {
-      "name": "FnBlackboard_0.3.12_x86.fpk",
-      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.12/FnBlackboard_0.3.12_x86.fpk",
-      "sha256": "6f89fe5f81f5d0d114b4fc0fa42f6cc006a33122b48632b27edd67448588d779"
+      "name": "FnBlackboard_0.4.1_x86.fpk",
+      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.1/FnBlackboard_0.4.1_x86.fpk",
+      "sha256": "A915EEBB3ECEE8F549E224B7617E74AAEECA5A8B27F9C4AEC0F2F46E9E39F56E"
     },
     "arm": {
-      "name": "FnBlackboard_0.3.12_arm.fpk",
-      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.3.12/FnBlackboard_0.3.12_arm.fpk",
-      "sha256": "da0f9166a9ebf8d58168c5788b8dff69ee97b75370c7b8d6a1eae861f03dd33c"
+      "name": "FnBlackboard_0.4.1_arm.fpk",
+      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.1/FnBlackboard_0.4.1_arm.fpk",
+      "sha256": "F1F2FC6E6D5CA6B6F98B602C395DD285A81A8E36DF021DDF61157F07ADF4F376"
     }
   }
 }
