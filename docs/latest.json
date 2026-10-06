@@ -1,26 +1,28 @@
 ﻿{
   "app": "fnblackboard",
-  "version": "0.4.1",
-  "published_at": "2026-10-01",
+  "version": "0.4.2",
+  "published_at": "2026-10-06",
   "min_fnos_version": "1.2.0401",
   "repository": "https://github.com/Digit-Space2021/FnBlackboard",
-  "release_page": "https://github.com/Digit-Space2021/FnBlackboard/releases/tag/v0.4.1",
+  "release_page": "https://github.com/Digit-Space2021/FnBlackboard/releases/tag/v0.4.2",
   "changelog": [
-    "完善多人协作评论、@成员提醒与已读状态",
-    "完善历史版本、恢复与操作记录 Audit",
-    "优化移动端编辑、主题适配与界面细节",
-    "继续提供 x86 与 ARM64 安装包"
+    "新增个人、家庭和团队空间及成员管理",
+    "新增 Capture、Task、Event、Reminder、Proposal 和 Commitment",
+    "支持空间改名、安全删除及多个个人空间",
+    "完善桌面、移动端及深浅主题适配",
+    "完善权限、数据库迁移、升级兼容和稳定性",
+    "继续支持 x86 和 ARM64"
   ],
   "assets": {
     "x86": {
-      "name": "FnBlackboard_0.4.1_x86.fpk",
-      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.1/FnBlackboard_0.4.1_x86.fpk",
-      "sha256": "A915EEBB3ECEE8F549E224B7617E74AAEECA5A8B27F9C4AEC0F2F46E9E39F56E"
+      "name": "FnBlackboard_0.4.2_x86.fpk",
+      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.2/FnBlackboard_0.4.2_x86.fpk",
+      "sha256": "9349E411064DDE1E2C7E067592C506661C04E5E35E945339E1659F5BE5C96A7E"
     },
     "arm": {
-      "name": "FnBlackboard_0.4.1_arm.fpk",
-      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.1/FnBlackboard_0.4.1_arm.fpk",
-      "sha256": "F1F2FC6E6D5CA6B6F98B602C395DD285A81A8E36DF021DDF61157F07ADF4F376"
+      "name": "FnBlackboard_0.4.2_arm.fpk",
+      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.2/FnBlackboard_0.4.2_arm.fpk",
+      "sha256": "308B595419AE06B62470FDB7911F33DC8D416850D71F203B878F8499B78BD869"
     }
   }
 }
