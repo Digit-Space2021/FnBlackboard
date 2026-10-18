@@ -1,27 +1,27 @@
 {
   "app": "fnblackboard",
-  "version": "0.4.3",
-  "published_at": "2026-10-13",
+  "version": "0.4.3.2",
+  "published_at": "2026-10-18",
   "min_fnos_version": "1.2.0401",
   "repository": "https://github.com/Digit-Space2021/FnBlackboard",
-  "release_page": "https://github.com/Digit-Space2021/FnBlackboard/releases/tag/v0.4.3",
+  "release_page": "https://github.com/Digit-Space2021/FnBlackboard/releases/tag/v0.4.3.2",
   "changelog": [
-    "统一事项：时间、提醒、重复、负责人、成员确认集中管理",
-    "快速记录与事项双向关联，支持事项生成后续记录",
-    "今日小黑板、记录簿、事项列表与全局搜索优化",
-    "文档协作与选中文字创建事项，改进桌面和移动端体验",
-    "帮助与反馈、新手引导及隐私说明完善"
+    "改进无时间长期事项、逾期事项与进行中事项的今日页展示",
+    "优化空间成员选择、手机和桌面操作按钮与侧栏布局",
+    "修复相关成员下拉撑高表单及超出屏幕的问题",
+    "新手引导改为按用户只自动展示一次，支持手动查看引导",
+    "介绍页及常用弹窗优化尺寸调整与窄屏适配"
   ],
   "assets": {
     "x86": {
-      "name": "FnBlackboard_0.4.3_x86.fpk",
-      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.3/FnBlackboard_0.4.3_x86.fpk",
-      "sha256": "D32978E3ADE4CFA1A3EF11C162FA213285F5EB85BE18BA00CCF295AC204BEBDE"
+      "name": "FnBlackboard_0.4.3.2_x86.fpk",
+      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.3.2/FnBlackboard_0.4.3.2_x86.fpk",
+      "sha256": "FAF8288D1FC89D0AE59D244785E396C812C1C54138D945975F43D31927303620"
     },
     "arm": {
-      "name": "FnBlackboard_0.4.3_arm.fpk",
-      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.3/FnBlackboard_0.4.3_arm.fpk",
-      "sha256": "8E320252F5AEE0A61988EBF158C35FE3480B92BADA8884354B91173F0FADB53E"
+      "name": "FnBlackboard_0.4.3.2_arm.fpk",
+      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.3.2/FnBlackboard_0.4.3.2_arm.fpk",
+      "sha256": "7124289062B05CE1AFA5F3C05A94D48292D8EEA8BAD6E6F2B227993058519B85"
     }
   }
 }
