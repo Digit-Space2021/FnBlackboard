@@ -1,27 +1,27 @@
 {
   "app": "fnblackboard",
-  "version": "0.4.3.2",
-  "published_at": "2026-10-18",
+  "version": "0.4.5",
+  "published_at": "2026-10-25",
   "min_fnos_version": "1.2.0401",
   "repository": "https://github.com/Digit-Space2021/FnBlackboard",
-  "release_page": "https://github.com/Digit-Space2021/FnBlackboard/releases/tag/v0.4.3.2",
+  "release_page": "https://github.com/Digit-Space2021/FnBlackboard/releases/tag/v0.4.5",
   "changelog": [
-    "改进无时间长期事项、逾期事项与进行中事项的今日页展示",
-    "优化空间成员选择、手机和桌面操作按钮与侧栏布局",
-    "修复相关成员下拉撑高表单及超出屏幕的问题",
-    "新手引导改为按用户只自动展示一次，支持手动查看引导",
-    "介绍页及常用弹窗优化尺寸调整与窄屏适配"
+    "新增记录归档与找回、跨空间时间轴和单事项历程，保留原始记录及来源关系",
+    "事项支持多成员提醒、NAS 持久化通知队列、个人通知渠道与静默/稍后设置",
+    "完善处理结果、事项状态反馈及独立留言板；留言不触发通知",
+    "优化应用内消息中心，只清理已读消息并保护未读",
+    "统一介绍页标语「记下现在　　照顾以后」及个人、家庭、工作室的产品表述"
   ],
   "assets": {
     "x86": {
-      "name": "FnBlackboard_0.4.3.2_x86.fpk",
-      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.3.2/FnBlackboard_0.4.3.2_x86.fpk",
-      "sha256": "FAF8288D1FC89D0AE59D244785E396C812C1C54138D945975F43D31927303620"
+      "name": "FnBlackboard_0.4.5_x86.fpk",
+      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.5/FnBlackboard_0.4.5_x86.fpk",
+      "sha256": "0438C352DEE4CF9B1CB246ECE5A7C55A861FB793CAEE5CA0643A4AA5D2384561"
     },
     "arm": {
-      "name": "FnBlackboard_0.4.3.2_arm.fpk",
-      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.3.2/FnBlackboard_0.4.3.2_arm.fpk",
-      "sha256": "7124289062B05CE1AFA5F3C05A94D48292D8EEA8BAD6E6F2B227993058519B85"
+      "name": "FnBlackboard_0.4.5_arm.fpk",
+      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.5/FnBlackboard_0.4.5_arm.fpk",
+      "sha256": "BAFE16C4EB052DC73F60A29043D5DBCA7CD301E670D7C0CFAC8605C2A2A33482"
     }
   }
 }
