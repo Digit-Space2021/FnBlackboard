@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "assetSet": "evergreen-v1",
+  "locale": "en",
+  "published": false,
+  "status": "prepared-locally-not-uploaded",
+  "imageType": "brand-illustration-not-app-screenshot",
+  "slides": [
+    {
+      "order": 1,
+      "file": "01-brand.webp",
+      "alt": "Capture today. Care for tomorrow.",
+      "futureVision": false,
+      "width": 1600,
+      "height": 900,
+      "bytes": 154512,
+      "sha256": "534f8ee40825cc68969b3d3ea8dcfffc0734c5f9d5f0a0ff1be7b3f827642fbf"
+    },
+    {
+      "order": 2,
+      "file": "02-capture-action.webp",
+      "alt": "Catch the thought. Follow it through.",
+      "futureVision": false,
+      "width": 1600,
+      "height": 900,
+      "bytes": 129680,
+      "sha256": "05567fb700f7c0c6e330d09c010c9d0f3d8568419d705807cae52a8279317ee3"
+    },
+    {
+      "order": 3,
+      "file": "03-shared-spaces.webp",
+      "alt": "A space for you. Room to do more together.",
+      "futureVision": false,
+      "width": 1600,
+      "height": 900,
+      "bytes": 151538,
+      "sha256": "18bd539401ee40a5d4291dc995d53ac98264efe13b85fa7945e36570161f22d0"
+    },
+    {
+      "order": 4,
+      "file": "04-lasting-memory.webp",
+      "alt": "Keep the story. Remember the journey.",
+      "futureVision": false,
+      "width": 1600,
+      "height": 900,
+      "bytes": 136526,
+      "sha256": "0ed0ca8188487a2ab451a5f7021b993b018a354d874285631ea09f7cb1691497"
+    },
+    {
+      "order": 5,
+      "file": "05-future-vision.webp",
+      "alt": "Let intelligence help. Keep decisions yours. (Future vision)",
+      "futureVision": true,
+      "width": 1600,
+      "height": 900,
+      "bytes": 144884,
+      "sha256": "d3c278c2ed7e3fe3d97eccbe0a297eb5be6ad131255138ec93593689d3d2f5b3"
+    }
+  ]
+}
