@@ -1,27 +1,29 @@
 {
   "app": "fnblackboard",
-  "version": "0.4.5",
-  "published_at": "2026-10-25",
+  "version": "0.5.0",
+  "published_at": "2026-11-11",
   "min_fnos_version": "1.2.0401",
   "repository": "https://github.com/Digit-Space2021/FnBlackboard",
-  "release_page": "https://github.com/Digit-Space2021/FnBlackboard/releases/tag/v0.4.5",
+  "release_page": "https://github.com/Digit-Space2021/FnBlackboard/releases/tag/v0.5.0",
   "changelog": [
-    "新增记录归档与找回、跨空间时间轴和单事项历程，保留原始记录及来源关系",
-    "事项支持多成员提醒、NAS 持久化通知队列、个人通知渠道与静默/稍后设置",
-    "完善处理结果、事项状态反馈及独立留言板；留言不触发通知",
-    "优化应用内消息中心，只清理已读消息并保护未读",
-    "统一介绍页标语「记下现在　　照顾以后」及个人、家庭、工作室的产品表述"
+    "一句话解析日期、重复规则和多条提醒，核对后直接创建事项。",
+    "每位成员可设多条提醒及独立内容，支持相对时间和休息日免打扰。",
+    "完善农历、工作日及自定义重复，提醒随每轮事项触发，历史记录保留。",
+    "新增日周月日历、时间轴、常用ICS导入导出和真实等待跟进记录。",
+    "飞书、钉钉、企业微信双向接入，通用Agent按授权查询、接收提醒和确认创建。",
+    "今日重点、日周简报、记录热力图和一键今日小卡片，查看安排更方便。",
+    "完善空间成员、协作文档图片、手机布局和可缩放设置窗口。"
   ],
   "assets": {
     "x86": {
-      "name": "FnBlackboard_0.4.5_x86.fpk",
-      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.5/FnBlackboard_0.4.5_x86.fpk",
-      "sha256": "0438C352DEE4CF9B1CB246ECE5A7C55A861FB793CAEE5CA0643A4AA5D2384561"
+      "name": "FnBlackboard_0.5.0_x86.fpk",
+      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.5.0/FnBlackboard_0.5.0_x86.fpk",
+      "sha256": "F11F49123EB656276B517A4EE86CA2F4A7D0CB6FDF3D395F21ED866B3708250A"
     },
     "arm": {
-      "name": "FnBlackboard_0.4.5_arm.fpk",
-      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.4.5/FnBlackboard_0.4.5_arm.fpk",
-      "sha256": "BAFE16C4EB052DC73F60A29043D5DBCA7CD301E670D7C0CFAC8605C2A2A33482"
+      "name": "FnBlackboard_0.5.0_arm.fpk",
+      "url": "https://github.com/Digit-Space2021/FnBlackboard/releases/download/v0.5.0/FnBlackboard_0.5.0_arm.fpk",
+      "sha256": "83DF12328A256C37F37675E6FDDC061FFB84B02BCC3475BC086F4C6D9ED75484"
     }
   }
 }
