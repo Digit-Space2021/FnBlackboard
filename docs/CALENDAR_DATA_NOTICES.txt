@@ -1,0 +1,21 @@
+FnBlackboard calendar factual data attribution / 0.5.0
+
+Gregorian-Lunar month boundaries were derived from Hong Kong Observatory
+Gregorian-Lunar Calendar Conversion Tables (1901-2100), accessed 2026-11-06.
+Source: https://www.hko.gov.hk/en/gts/time/conversion.htm
+The application stores calendar facts, not the Observatory page layout or code.
+The Observatory notes possible future adjustment for distant dates in 2057,
+2089 and 2097; this release freezes the published table at the access date.
+
+2027 Mainland China holiday facts: General Office of the State Council,
+2026-11-05 notice, Guo Ban Fa Ming Dian [2026] No. 10.
+Source: https://www.gov.cn/zhengce/content/202611/content_7085101.htm
+
+2026 Mainland China holiday facts and other source references remain in the
+bundled calendar data. User-requested annual updates use the fixed UAPI
+holiday-calendar service; this aggregate service is not an official signature
+of a government calendar. Known local official facts take precedence.
+Source: https://uapis.cn/docs/api-reference/get-misc-holiday-calendar
+
+These factual-data references do not license third-party page layouts,
+logos or code as FnBlackboard property, and do not imply official endorsement.

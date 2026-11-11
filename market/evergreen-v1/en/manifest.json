@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "assetSet": "evergreen-v1",
   "locale": "en",
-  "published": false,
-  "status": "prepared-locally-not-uploaded",
+  "published": true,
+  "status": "published",
   "imageType": "brand-illustration-not-app-screenshot",
   "slides": [
     {

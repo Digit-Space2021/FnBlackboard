@@ -1,0 +1,8 @@
+FnBlackboard / 飞牛小黑板 Copyright Notice
+
+FnBlackboard 自有部分：Copyright © Digit-Space2021. All Rights Reserved.
+
+第三方开源组件：分别依其原始许可证使用，详见 THIRD_PARTY_NOTICES.txt。
+第三方平台、商标与服务标识：归相应权利人所有；在本应用中仅作事实性说明。
+
+本文件不改变任何第三方开源组件原许可证授予的权利。

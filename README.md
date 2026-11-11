@@ -4,7 +4,7 @@ FnBlackboard（飞牛小黑板）是一款适用于 fnOS 的第三方轻量笔�
 
 ## 下载
 
-请前往 GitHub Releases 下载与设备 CPU 架构匹配的安装包：
+请前往 [GitHub Releases](https://github.com/Digit-Space2021/FnBlackboard/releases/latest) 下载与设备 CPU 架构匹配的安装包：
 
 - x86 / AMD64
 - ARM64
@@ -15,9 +15,9 @@ FnBlackboard 支持用户主动查询公开发布版本信息。通过飞牛应�
 
 ## 隐私与许可
 
-- 隐私说明：`docs/privacy.html`
-- 使用与版权说明：`docs/TERMS.txt`
-- 第三方开源软件许可：正式构建后生成 `docs/THIRD_PARTY_NOTICES.txt`
+- 隐私说明：[privacy.html](docs/privacy.html)
+- 使用与版权说明：[TERMS.txt](docs/TERMS.txt)
+- 第三方开源软件许可：[THIRD_PARTY_NOTICES.txt](docs/THIRD_PARTY_NOTICES.txt)
 
 
 ## 源代码
@@ -35,3 +35,19 @@ FnBlackboard 为第三方独立应用。“飞牛”、fnOS 及相关名称和�
 ## 问题反馈
 
 请通过本仓库 Issues 反馈问题。
+
+
+## English introduction images
+
+<details>
+<summary>Capture today. Care for tomorrow.</summary>
+
+<a href="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/01-brand.webp"><img src="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/01-brand.webp" width="200" alt="Capture today. Care for tomorrow." /></a>
+<a href="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/02-capture-action.webp"><img src="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/02-capture-action.webp" width="200" alt="Catch the thought. Follow it through." /></a>
+<a href="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/03-shared-spaces.webp"><img src="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/03-shared-spaces.webp" width="200" alt="A space for you. Room to do more together." /></a>
+<a href="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/04-lasting-memory.webp"><img src="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/04-lasting-memory.webp" width="200" alt="Keep the story. Remember the journey." /></a>
+<a href="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/05-future-vision.webp"><img src="https://raw.githubusercontent.com/Digit-Space2021/FnBlackboard/main/market/evergreen-v1/en/05-future-vision.webp" width="200" alt="Let intelligence help. Keep decisions yours. (Future vision)" /></a>
+
+Brand illustrations, not application screenshots. The fifth image presents a future vision; features depend on the current release.
+
+</details>
